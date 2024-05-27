@@ -24,8 +24,8 @@ Para a versão mobile, usamos  JAVA, KOTLIN e o ANDROID STUDIO na versão Giraff
 <h2 align="center"> Telas de apresentação </h2>
 
 <a href="#" target="_blank"> 
- <img src="images/1.jpg" width="330" height="330"/>
+ <img src="images/MICO1.jpg" width="330" height="330"/>
 </a>
 <a href="#" target="_blank"> 
- <img src="images/3.jpg" width="330" height="330"/>
+ <img src="images/MICO2.jpg" width="330" height="330"/>
 </a>

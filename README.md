@@ -29,3 +29,8 @@ Para a versão mobile, usamos  JAVA, KOTLIN e o ANDROID STUDIO na versão Giraff
 <a href="#" target="_blank"> 
  <img src="images/MICO2.jpg" width="330" height="330"/>
 </a>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Houveram tentativas de commits para inclusão dos arquivos e compactação dos mesmos, mas o tamanho dos arquivos são maiores do que permitido pelo Github. Foi anexado um video demonstrativo do funcionamento do aplicativo.
